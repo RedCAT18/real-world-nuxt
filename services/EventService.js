@@ -17,3 +17,5 @@ export default {
     return apiClient.get('/events/' + id)
   }
 }
+
+// https://mighty-gorge-12506.herokuapp.com/
